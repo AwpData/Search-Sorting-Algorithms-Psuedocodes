@@ -5,3 +5,4 @@
 			if (num.equals([SOLUTION])) {
 				System.out.println("Found!");
 			}
+		}
