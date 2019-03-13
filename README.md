@@ -1,4 +1,4 @@
-# Sorting-Algorithms-Pseudocodes
+# Search and Sorting Algorithm Psuedocodes
 Contains Pseudocodes of:
 
 -Binary Search (Integer and String)
